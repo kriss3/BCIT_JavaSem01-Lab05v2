@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE:				Lab05v2 from Gary Tong
+PURPOSE OF PROJECT:			Learning Java
+VERSION or DATE:			11/05/2016
+HOW TO START THIS PROJECT:	Run bluej.project file  
+AUTHORS:					Krzysztof Szczurowski
+USER INSTRUCTIONS:			N/A
