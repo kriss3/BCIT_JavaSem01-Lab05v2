@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=_counter
+comment0.target=void\ setCounter(int)
+comment1.params=
+comment1.target=int\ getCounter()
+comment10.params=
+comment10.target=java.lang.String\ getNumberOfTimesCreated()
+comment2.params=
+comment2.target=Person()
+comment3.params=firstName\ lastName\ age\ height
+comment3.target=Person(java.lang.String,\ java.lang.String,\ int,\ double)
+comment4.params=
+comment4.target=java.lang.String\ getFirstName()
+comment5.params=value
+comment5.target=void\ setFirstName(java.lang.String)
+comment6.params=
+comment6.target=int\ getAge()
+comment7.params=value
+comment7.target=void\ setAge(int)
+comment8.params=
+comment8.target=java.lang.String\ getNameTag()
+comment9.params=
+comment9.target=void\ printNameTag()
+numComments=11
