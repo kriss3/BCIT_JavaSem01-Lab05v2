@@ -10,3 +10,4 @@ VERSION or DATE:			11/05/2016
 HOW TO START THIS PROJECT:	Run package.bluej file  
 AUTHORS:					Krzysztof Szczurowski
 USER INSTRUCTIONS:			N/A
+REPO: 						https://github.com/kriss3/BCIT_JavaSem01-Lab05v2.git
