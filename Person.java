@@ -1,14 +1,12 @@
 
 /**
  * BCIT_JavaSem01-Lab05v2 Lab from Gary Tong;
- * A class to model a Person
+ * A class to model Person objects
  * 
  * @author K.Szczurowski
  * @version 1.1
- * @date 11/052016
  * @since 11/052016
  * @see https://learn.bcit.ca/d2l/le/content/331960/viewContent/2110012/View
- * 
  */
 public class Person
 {
@@ -21,8 +19,8 @@ public class Person
     public static int counter = 0;
     
     /**
-     * Public method to return number of instances created;
-     * @return return number of instances created as Integer;
+     * Public static method to return number of objects created of this type;
+     * @return return number of instances created, as Integer;
      */
     public static int getCounter()
     {
@@ -127,16 +125,21 @@ public class Person
      */
     public String getNumberOfTimesCreated()
     {
+        String result = "";
         switch(counter)
         {
             case 0 :
-            return "none";
-            case 1 : 
-            return "once";
+                result = "none";
+                break;
+            case 1 :
+                result = "once";
+                break;
             case 2 : 
-            return "twice";
+                result = "twice";
+                break;
             default:
-            return "Too many times !!!";
+            result = "Too many times !!!";
         }
+        return result;
     }
 }
